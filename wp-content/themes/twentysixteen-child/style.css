@@ -1,0 +1,18 @@
+/*
+Theme Name: Big Sixteen
+Description: Twentysixteen child theme
+Author: Jared Marcolongo
+Template: twentysixteen
+version: 0.0.2
+*/
+@import url("../twentysixteen/style.css");
+
+body {
+	background-color: #7CACBF;
+}
+.site {
+	background-color: lightgrey;
+}
+.site-header{
+	font-weight: 400;
+}
