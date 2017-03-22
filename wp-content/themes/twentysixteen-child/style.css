@@ -1,18 +1,22 @@
 /*
 Theme Name: Big Sixteen
-Description: Twentysixteen child theme
+Description: twentysixteen child theme
 Author: Jared Marcolongo
 Template: twentysixteen
-version: 0.0.2
+version: 0.0.3
 */
-@import url("../twentysixteen/style.css");
+/*@import url("../twentysixteen-child/style.css");*/
 
 body {
 	background-color: #7CACBF;
+	color: #7CACBF;
+	font-family: Merriweather, Georgia, serif;
+	font-size: 1rem;
+	/*line-height: 1.75;*/
 }
 .site {
-	background-color: lightgrey;
+	background-color: white;
 }
-.site-header{
-	font-weight: 400;
+.site-header {
+	font-weight: 600;
 }
